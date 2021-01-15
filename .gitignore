@@ -1,1 +1,10 @@
 readme.txt.rej
+.idea/$CACHE_FILE$
+.idea/.gitignore
+.idea/dictionaries
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/new1.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/Project_Default.xml
